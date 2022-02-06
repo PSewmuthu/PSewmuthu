@@ -32,6 +32,13 @@
     </a>
 </p>
 
+## Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=PSewmuthu&theme=dark_lover)](https://github.com/PSewmuthu)
+
+<br/>
+<br/>
+
 ## 📊 My Github Stats
 
 <br/>
