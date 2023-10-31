@@ -50,7 +50,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Pasindu Sewmuthu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=PSewmuthu&theme=react-dark&hide_border=true" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Pasindu Sewmuthu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=PSewmuthu&theme=react-dark&hide_border=true" /></a>
 
 ## ❤ Views and Followers
 
