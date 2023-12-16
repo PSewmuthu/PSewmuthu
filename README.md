@@ -8,6 +8,20 @@
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+<br>
+
+👋 Hello! I'm Pasindu Sewmuthu Abewickrama Singhe, a passionate Computer Science and Technology undergraduate at Sabaragamuwa University of Sri Lanka 🎓. My journey involves diving deep into the realms of Artificial Intelligence, Software Engineering, Internet of Things, and Robotics.
+
+💻 Currently honing my coding skills and exploring innovative solutions to real-world problems. My projects reflect a blend of creativity, problem-solving, and a keen interest in cutting-edge technologies.
+
+🚀 Excited about the endless possibilities at the intersection of code and creativity! Whether it's crafting intelligent algorithms, building robust software, or experimenting with the latest tech trends, I'm always up for a challenge.
+
+🛠️ Tech Stack: Python, Java, C++, TensorFlow, Docker, Git, and more.
+
+🌐 Let's connect and collaborate! Open to discussions, learning, and contributing to impactful projects. Check out my repositories for a glimpse into my coding adventures.
+
+<br>
+
 ## 🚀 Languages and Tools:
 
 <p align="left">
