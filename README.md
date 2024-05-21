@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Artificial Intelligence**.
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <br>
